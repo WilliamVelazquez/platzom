@@ -1,0 +1,32 @@
+{
+  "name": "platzom",
+  "version": "0.1.0",
+  "description": "Traductor de idioma platzom",
+  "main": "dist/src/platzom.js",
+  "scripts": {
+    "build": "babel src/platzom.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamVelazquez/platzom.git"
+  },
+  "keywords": [
+    "platzom",
+    "platzi",
+    "javacript",
+    "js"
+  ],
+  "author": "William Velazquez <william.velazquez.a@gmail.com> (https://twitter.com/WilliamVlazquez)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WilliamVelazquez/platzom/issues"
+  },
+  "homepage": "https://github.com/WilliamVelazquez/platzom#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0"
+  }
+}
