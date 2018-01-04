@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "@username/platzom",
-=======
-  "name": "platzom",
->>>>>>> origin/master
   "version": "0.1.0",
   "description": "Traductor de idioma platzom",
   "main": "dist/src/platzom.js",
